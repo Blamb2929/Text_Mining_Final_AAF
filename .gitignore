@@ -1,2 +1,4 @@
 csv_files/hansard*
 not_important/
+csv_files/speeches_processed.csv
+vectorized_data/
